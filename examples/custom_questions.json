@@ -1,0 +1,7 @@
+[
+  {
+    "question": "A population starts at 100 individuals and grows by 5 percent annually for three years. What final population does the model project, and what does the change imply about short-term growth?",
+    "reference_answer": "The model projects 115.7625 individuals after three years, an increase of about 15.76 percent. This indicates steady positive compound growth over the short period."
+  }
+]
+

@@ -1,0 +1,15 @@
+.env
+.venv/
+.vscode/
+*.py[cod]
+__pycache__/
+*.log
+.DS_Store
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+data/runs/
+external/
+simulators/
